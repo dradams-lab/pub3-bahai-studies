@@ -32,3 +32,6 @@ __pycache__/
 *.pyc
 .venv/
 figures/.venv/
+
+# Claude Code
+.claude/
