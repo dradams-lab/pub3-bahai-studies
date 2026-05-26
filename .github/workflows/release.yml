@@ -1,0 +1,42 @@
+name: Build PDF and Release
+
+# Trigger: push a version tag, e.g. git tag v0.1.0 && git push origin v0.1.0
+# Workflow: compile LaTeX → create GitHub release with PDF → Zenodo picks up everything.
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to create releases and upload assets
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      # Full TeX Live image; arabtex and all standard packages are included.
+      - name: Compile PDF (pdflatex + BibTeX via latexmk)
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+          # latexmk default: pdflatex. Runs bibtex/biber automatically.
+          args: -pdf -interaction=nonstopmode -halt-on-error
+
+      # Create the GitHub release and attach main.pdf.
+      # Zenodo's webhook fires on release publication and will download
+      # both the source zip and any attached assets — i.e., the PDF.
+      - name: Create GitHub release with PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ github.ref_name }}
+          body: |
+            **Mahabbat and the Affinity Tensor: Quantum Physics as Confirmation of Bahá'í Relational Ontology**
+            Joshua Adams · ${{ github.ref_name }}
+
+            Preprint. Metadata and DOI via Zenodo (see sidebar).
+          files: main.pdf
+          draft: false
+          prerelease: false
