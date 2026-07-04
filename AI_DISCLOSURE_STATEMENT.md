@@ -27,10 +27,13 @@ inclusion.
 
 ## 3. Citation and reference verification
 
-Claude independently verified every quotation and citation in this manuscript against
-primary-source texts (fetched directly from bahai.org and the Bahá'í Reference Library),
-which I then reviewed and approved. This process identified and corrected three
-concrete problems prior to submission:
+Claude fetched primary-source texts directly (from bahai.org and the Bahá'í Reference
+Library) and checked the manuscript's verbatim quotations and load-bearing citations
+against them; I reviewed and approved each correction that resulted. This was not an
+exhaustive check of every citation in the manuscript — some paraphrase citations to
+secondary passages were judged lower risk and not independently re-verified — but it
+covered every direct quotation flagged as needing verification, and it identified and
+corrected three concrete problems prior to submission:
 
 - A quotation cited to *Some Answered Questions* that in fact appears in *Paris Talks*
   (the citation has been corrected accordingly).

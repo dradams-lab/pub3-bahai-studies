@@ -30,8 +30,10 @@ outran what the citations actually supported.
 
 **3. Citation and quotation verification.** Before this submission, I had the AI fetch
 the primary Bahá'í texts directly (from bahai.org and the Bahá'í Reference Library) and
-check every quotation and citation in the manuscript against the actual source text.
-This caught three concrete problems, which have been corrected in the submitted version:
+check the manuscript's verbatim quotations and load-bearing citations against the actual
+source text (not an exhaustive check of every citation — some lower-risk paraphrase
+citations were not independently re-verified). This caught three concrete problems,
+which have been corrected in the submitted version:
 - A quotation attributed to *Some Answered Questions* that in fact appears in *Paris
   Talks* (the citation has been corrected).
 - Two passages presented as verbatim quotations from *The Promulgation of Universal
