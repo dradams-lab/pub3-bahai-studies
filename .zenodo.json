@@ -31,17 +31,17 @@
   "language": "eng",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/adams-research/pub3-bahai-studies",
+      "identifier": "https://github.com/dradams-lab/pub3-bahai-studies",
       "relation": "isSupplementTo",
       "resource_type": "software"
     },
     {
-      "identifier": "https://github.com/adams-research/pub2-philosophy",
+      "identifier": "https://github.com/dradams-lab/pub2-philosophy",
       "relation": "isSupplementedBy",
       "resource_type": "publication-preprint"
     },
     {
-      "identifier": "https://github.com/adams-research/pub1-physics-rct",
+      "identifier": "https://github.com/dradams-lab/pub1-physics-rct",
       "relation": "isSupplementedBy",
       "resource_type": "publication-preprint"
     }
