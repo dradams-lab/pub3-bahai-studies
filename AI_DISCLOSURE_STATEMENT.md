@@ -52,6 +52,12 @@ that the argument, its interpretation, and its conclusions are my own. This stat
 also included as a declaration within the manuscript itself, immediately following the
 conclusion, so that it travels with the paper regardless of submission channel.
 
+A detailed, item-by-item citation verification log — recording every quotation checked,
+the primary source fetched, and the outcome, including the specific errors found and
+corrected, and two items flagged as not independently re-verified — is available as
+`CITATION_VERIFICATION_LOG.md` in this repository, and can be included as a supporting
+appendix on request.
+
 I am glad to answer any further questions the editors may have about this process.
 
 Joshua Adams
