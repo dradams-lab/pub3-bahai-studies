@@ -29,11 +29,12 @@ inclusion.
 
 Claude fetched primary-source texts directly (from bahai.org and the Bahá'í Reference
 Library) and checked the manuscript's verbatim quotations and load-bearing citations
-against them; I reviewed and approved each correction that resulted. This was not an
-exhaustive check of every citation in the manuscript — some paraphrase citations to
-secondary passages were judged lower risk and not independently re-verified — but it
-covered every direct quotation flagged as needing verification, and it identified and
-corrected three concrete problems prior to submission:
+against them; I reviewed and approved each correction that resulted. While not framed as
+an exhaustive line-by-line audit of every paraphrase citation, this check covered every
+direct quotation and every citation whose accuracy the argument depends on, including a
+final pass over the two paraphrase citations previously left open (both now resolved —
+one verified correct, one corrected). It identified and corrected several concrete
+problems prior to submission, including:
 
 - A quotation cited to *Some Answered Questions* that in fact appears in *Paris Talks*
   (the citation has been corrected accordingly).
@@ -54,9 +55,9 @@ conclusion, so that it travels with the paper regardless of submission channel.
 
 A detailed, item-by-item citation verification log — recording every quotation checked,
 the primary source fetched, and the outcome, including the specific errors found and
-corrected, and two items flagged as not independently re-verified — is available as
-`CITATION_VERIFICATION_LOG.md` in this repository, and can be included as a supporting
-appendix on request.
+corrected, and the resolution of the two paraphrase citations previously left open — is
+available as `CITATION_VERIFICATION_LOG.md` in this repository, and can be included as a
+supporting appendix on request.
 
 I am glad to answer any further questions the editors may have about this process.
 

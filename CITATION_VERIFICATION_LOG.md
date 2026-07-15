@@ -37,21 +37,21 @@ a row here.
 |---|---|---|
 | 15 | `BSW` ("Bahá'í Sacred Writings", a generic 1983 anthology) used as a bibliography entry across pub2, pub3, and the book — no such identifiable single-volume source exists under this title. | Replaced with the two specific, verified primary sources the quotes actually trace to: `TabletsBahaullah` (Tablet of Wisdom, p.140 — item #4 above) and `SummonsLordHosts` (para. 35 — item #3 above), in all three documents. |
 
-## Explicitly NOT independently re-verified (flagged, not fixed)
+## Previously flagged, now RESOLVED (this session)
 
-| # | Item | Reason not verified | Status |
-|---|---|---|---|
-| 16 | "each kingdom able to apprehend the kingdoms beneath it but not the kingdom above it" — SAQ, Part 4 (hierarchy of comprehension) | Paraphrase, not verbatim quotation; judged lower priority than direct quotes at the time | Attempted this session — searched SAQ full text for multiple phrasings of the graded-comprehension-hierarchy claim; none matched. Inconclusive: the general theme (differentiated comprehension across kingdoms) is a recurring SAQ motif, but I could not confirm the "Part 4" location or locate the specific passage in the time available. **Needs author or closer manual check before submission.** |
-| 17 | "the attributes of God" (book, non-composite-soul context) — SelectionsAbdul, no locator given | Short quoted phrase, general/thematic citation | Checked this session — phrase not found verbatim in Selections from the Writings of 'Abdu'l-Bahá. **Unresolved; needs author check or removal of quotation marks if it's meant as paraphrase.** |
+| # | Item | Resolution |
+|---|---|---|
+| 16 | "each kingdom able to apprehend the kingdoms beneath it but not the kingdom above it" — SAQ, Part 4 (hierarchy of comprehension) | **VERIFIED CORRECT.** Fetched SAQ from bahai.org and located the passage in Part 4 ("On the Origin, Powers, and Conditions of Man"): ʻAbdu'l-Bahá states the animal "cannot comprehend or conceive that which lies beyond it," within the mineral→vegetable→animal→human gradient developed across Part 4. The paper's `[Part 4]{SAQ}` part-level citation is accurate; no change to the citation. Source-note comment added in `sections/03-six-convergences.tex`. |
+| 17 | "the attributes of God" (pub3 §6, non-composite-soul context) — SelectionsAbdul, no locator | **CORRECTED.** The exact phrase "the attributes of God" does NOT appear in *Selections from the Writings of ʻAbdu'l-Bahá* (checked verbatim; it does appear in Promulgation, Secret of Divine Civilization, and the Bahá'í Sacred Writings anthology — not the cited volume). The passage the paper actually invokes IS in Selections: the perfect human being is "like unto a mirror in which the divine perfections are manifested and reflected." Quotation replaced with this verified verbatim wording, citation kept to `{SelectionsAbdul}` (no page asserted — the source PDF carries no reliable printed-page markers on that page, and no page number was invented). Fixed in `sections/06-non-composite-soul.tex`. |
 
 ## What this log supports
 
 Every specific correction named in the manuscript's "Declaration of AI-Assisted
 Technologies" (main.tex) and in `AI_DISCLOSURE_STATEMENT.md` traces to rows 9, 11, 12,
-13, 14, and 15 above. Rows 16–17 are the concrete instances behind that declaration's
-caveat that "some ... citations were judged lower risk and not independently
-re-verified" — they are not paraphrase citations in general, but these two specific,
-named, still-open items.
+13, 14, and 15 above. Rows 16–17 were the two items the declaration's caveat referred
+to as "judged lower risk and not independently re-verified"; both have now been checked
+against primary sources (row 16 verified correct, row 17 corrected). The disclosure
+statement's caveat should be updated accordingly — see note below.
 
 
 ## Note on this log's own provenance
