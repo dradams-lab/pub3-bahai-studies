@@ -1,0 +1,128 @@
+% ============================================================
+%  Publication 3 — Bahá'í Studies
+%  "Mahabbat and the Affinity Operator: Quantum Physics as
+%   Structural Convergence with Bahá'í Relational Ontology"
+%
+%  Target: Journal of Bahá'í Studies · Lights of Irfan ·
+%          Association for Bahá'í Studies Conference
+%  Compiler: pdflatex (Overleaf)
+%  No mathematics required for validation of this paper.
+%  Dr. Joshua Adams | 2026
+% ============================================================
+
+\documentclass[12pt, a4paper]{article}
+
+% ── Encoding & fonts ──────────────────────────────────────
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% ── Page geometry ─────────────────────────────────────────
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\doublespacing
+
+% ── Tables & figures ──────────────────────────────────────
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\graphicspath{{figures/}}
+
+% ── Arabic / Persian text support ─────────────────────────
+% (mahabbat rendered in Latin transliteration; no arabtex needed)
+
+% ── Bibliography (author-year for humanities journals) ────
+\usepackage[authoryear, round, sort]{natbib}
+\bibliographystyle{apalike}
+
+% ── Hyperlinks ────────────────────────────────────────────
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue}
+
+% ── ORCID ─────────────────────────────────────────────────
+\usepackage{orcidlink}
+
+% ── Bahá'í typesetting helpers ────────────────────────────
+\usepackage{xspace}
+\newcommand{\bahai}{Bah\'a\textquoteright\'{\i}\xspace}
+\newcommand{\Bahai}{Bah\'a\textquoteright\'{\i}\xspace}
+\newcommand{\Bahaullah}{Bah\'a\textquoteright u\textquoteright ll\'ah\xspace}
+\newcommand{\AbdulBaha}{\textquoteleft Abdu\textquoteright l-Bah\'a\xspace}
+\newcommand{\mahabbat}{\textit{mahabbat}\xspace}
+\newcommand{\mawaddat}{\textit{mawaddat}\xspace}
+
+% =============================================================
+\begin{document}
+% =============================================================
+
+\title{Mahabbat and the Affinity Operator: Quantum Physics as Structural\\
+       Convergence with Bahá'í Relational Ontology}
+
+\author{Dr. Joshua Adams \orcidlink{0000-0002-7185-9125}\\
+        \small Independent Researcher\\
+        \small \texttt{contact@joshuaadams.dev}}
+
+\date{\today}
+
+\maketitle
+
+\begin{abstract}
+\input{sections/00-abstract-submission}
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\input{sections/01-introduction}
+\input{sections/02-mahabbat-textual}
+\input{sections/03-six-convergences}
+\input{sections/04-chronological}
+\input{sections/05-confirmation-not-appropriation}
+\input{sections/06-non-composite-soul}
+\input{sections/07-conclusion}\newpage
+
+\section*{Declaration of AI-Assisted Technologies}
+\addcontentsline{toc}{section}{Declaration of AI-Assisted Technologies}
+
+This manuscript was prepared with the assistance of Claude (Anthropic), a large language
+model, used in three distinct capacities, detailed here for transparency.
+
+\textbf{Argument and analysis.} The central textual and historical argument of this
+paper --- the chronological case for the priority of the Bahá'í writings' relational
+metaphysics of \emph{mahabbat} (Section~2), the six structural convergences with quantum
+mechanics and process philosophy (Section~3), the chronological framing (Section~4), and
+the treatment of the non-composite soul and its implications for decoherence
+(Section~6) --- is my own analysis. Claude was used in an editorial and research-assistant
+capacity for these sections: expanding and tightening prose I had outlined, and verifying
+citations against primary sources.
+
+\textbf{AI-drafted framing sections.} The introduction (Section~1), the discussion
+distinguishing confirmation from appropriation (Section~5), and the conclusion
+(Section~7) were drafted by Claude from my direction and outline, then reviewed and
+revised by me across multiple passes before inclusion.
+
+\textbf{Citation and reference verification.} Claude fetched primary-source texts
+directly (from \url{www.bahai.org} and \url{reference.bahai.org}) and checked the
+manuscript's verbatim quotations and load-bearing citations against them; I reviewed and
+approved each correction that resulted. While not framed as an exhaustive line-by-line
+audit of every paraphrase citation, this check covered every direct quotation and every
+citation whose accuracy the argument depends on --- including a final pass over the two
+paraphrase citations previously left open, both now resolved (one verified correct
+against \emph{Some Answered Questions} Part~4, one corrected in \emph{Selections from the
+Writings of `Abdu'l-Bah\'a}) --- and it identified and corrected several
+errors introduced during drafting: a citation to \emph{Some Answered Questions} for a
+quotation that in fact originates in \emph{Paris Talks}; two passages presented as
+verbatim quotations from \emph{The Promulgation of Universal Peace} whose closing
+clauses did not match the source text and have been corrected to the verified wording;
+and a placeholder bibliography entry (an unverifiable single-volume anthology) that has
+been replaced with the two specific, citable primary sources the quotations actually
+come from.
+
+I have reviewed all AI-assisted and AI-drafted content, take full responsibility for the
+accuracy and integrity of the manuscript's claims and citations, and affirm that the
+argument, its interpretation, and its conclusions are my own.
+
+\section*{Works Cited}
+\bibliography{references}
+
+\end{document}
