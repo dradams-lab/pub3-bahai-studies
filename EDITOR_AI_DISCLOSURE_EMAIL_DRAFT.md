@@ -1,6 +1,6 @@
 # Draft email to editor@bahaistudies.ca
 
-**Subject:** AI use disclosure — "Mahabbat and the Affinity Tensor" submission
+**Subject:** AI use disclosure — "Mahabbat and the Affinity Operator" submission
 
 ---
 
@@ -31,9 +31,11 @@ outran what the citations actually supported.
 **3. Citation and quotation verification.** Before this submission, I had the AI fetch
 the primary Bahá'í texts directly (from bahai.org and the Bahá'í Reference Library) and
 check the manuscript's verbatim quotations and load-bearing citations against the actual
-source text (not an exhaustive check of every citation — some lower-risk paraphrase
-citations were not independently re-verified). This caught three concrete problems,
-which have been corrected in the submitted version:
+source text. This check covered every direct quotation and every citation the argument
+depends on, including a final pass over two paraphrase citations that had earlier been
+left unchecked (both now resolved — one verified correct against *Some Answered
+Questions* Part 4, one corrected in *Selections from the Writings of ʻAbdu'l-Bahá*). It
+caught several concrete problems, all corrected in the submitted version:
 - A quotation attributed to *Some Answered Questions* that in fact appears in *Paris
   Talks* (the citation has been corrected).
 - Two passages presented as verbatim quotations from *The Promulgation of Universal
@@ -42,6 +44,10 @@ which have been corrected in the submitted version:
 - A placeholder bibliography entry for a generic "Bahá'í Sacred Writings" anthology that
   does not correspond to any real single-volume source; it has been replaced with the
   two specific, citable primary texts the quotations actually come from.
+- A quoted phrase ("the attributes of God") attributed to *Selections from the Writings
+  of ʻAbdu'l-Bahá* that does not appear in that volume; it has been replaced with the
+  passage the argument actually rests on, quoted verbatim from *Selections* ("like unto
+  a mirror in which the divine perfections are manifested and reflected").
 
 **4. What was not AI-generated.** The paper's central thesis — that the Bahá'í
 "two-wings" principle is structurally confirmed by the convergence of relational quantum
