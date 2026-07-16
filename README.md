@@ -1,4 +1,4 @@
-# Mahabbat and the Affinity Tensor
+# Mahabbat and the Affinity Operator
 ### Quantum Physics as Structural Convergence with Bahá'í Relational Ontology
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20388678.svg)](https://doi.org/10.5281/zenodo.20388678)
@@ -13,7 +13,7 @@ This paper tests the Bahá'í two-wings principle against the deepest findings o
 
 ## Cite
 
-> Adams, J. (2026). *Mahabbat and the Affinity Tensor: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology*. Zenodo. https://doi.org/10.5281/zenodo.20388678
+> Adams, J. (2026). *Mahabbat and the Affinity Operator: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology*. Zenodo. https://doi.org/10.5281/zenodo.20388678
 
 ## Build
 
