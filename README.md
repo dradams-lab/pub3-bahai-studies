@@ -15,6 +15,12 @@ This paper tests the Bahá'í two-wings principle against three landmarks of mod
 
 > Adams, J. (2026). *Mahabbat and the Two Wings: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology* (Version v0.4.4). Zenodo. https://doi.org/10.5281/zenodo.23046022
 
+## Companion publications
+
+- **Pub1 — Physics**: [Relational Coherence Budgeting for Tunable Exchange Gates](https://github.com/dradams-lab/pub1-physics-rct) — [DOI: 10.5281/zenodo.23045066](https://doi.org/10.5281/zenodo.23045066) (v1.9.2)
+- **Pub2 — Philosophy**: [Three Paths to One Structure](https://github.com/dradams-lab/pub2-philosophy) — [DOI: 10.5281/zenodo.23047204](https://doi.org/10.5281/zenodo.23047204) (v0.6.2)
+- **Book**: [The Physics of Love](https://github.com/dradams-lab/book-physics-of-love) (in preparation)
+
 ## Build
 
 Compiled automatically on every version tag via GitHub Actions (pdflatex + BibTeX). See [Releases](../../releases) for the latest PDF.
