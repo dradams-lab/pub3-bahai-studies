@@ -1,7 +1,7 @@
 # Mahabbat and the Two Wings
 ### Quantum Physics as Structural Convergence with Bahá'í Relational Ontology
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23046022.svg)](https://doi.org/10.5281/zenodo.23046022)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20388677.svg)](https://doi.org/10.5281/zenodo.20388677)
 
 **Author:** Joshua Adams  
 **Target journal:** Journal of Bahá'í Studies  
@@ -13,7 +13,7 @@ This paper tests the Bahá'í two-wings principle against three landmarks of mod
 
 ## Cite
 
-> Adams, J. (2026). *Mahabbat and the Two Wings: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology* (Version v0.4.4). Zenodo. https://doi.org/10.5281/zenodo.23046022
+> Adams, J. (2026). *Mahabbat and the Two Wings: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology*. Zenodo. https://doi.org/10.5281/zenodo.20388677
 
 ## Companion publications
 
