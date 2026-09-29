@@ -22,16 +22,16 @@ two wings upon which man's intelligence can soar" is among the most frequently c
 Bahá'í teachings, yet it is usually invoked at the level of metaphor or general
 harmony. This paper asks whether the principle holds at the level of *structure*. It
 argues that the Bahá'í metaphysics of *mahabbat* — relational love as the creative
-foundation of existence — shares the same logical architecture as relational quantum
-mechanics (Rovelli) and Whitehead's process philosophy: existence constituted by
-relationship rather than by self-subsisting substance, properties emerging through
-relational interaction, and the force sustaining relationship identified as love. The
-convergence is presented not as analogy but as structural isomorphism, and the paper is
-careful to frame it as such — as documented independent convergence, explicitly *not*
-as a claim of supernatural authority or of the Writings anticipating physics. A
+foundation of existence — shares a logical structure with relational quantum mechanics
+(Rovelli) and Whitehead's process philosophy: existence constituted by relationship
+rather than by self-subsisting substance, and properties emerging through relational
+interaction. The further claim, that what sustains relationship is love, is the
+Writings' own and is not attributed to physics. The paper frames the result as
+documented independent convergence at the level of structure, explicitly *not* as a
+claim of supernatural authority or of the Writings anticipating physics. A
 chronological section notes that the Writings articulate this structure decades before
-Whitehead named it and roughly a century before physics confirmed it experimentally,
-offered as evidence of that independent convergence.
+Whitehead named it and before experiments on Bell's inequalities, offered as evidence
+of that independent convergence.
 
 **Fit with the Journal.** The paper is written for a Bahá'í-studies readership: the
 physics is presented conceptually, without mathematics, and the interpretive weight
