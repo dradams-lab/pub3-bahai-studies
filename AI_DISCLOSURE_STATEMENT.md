@@ -1,6 +1,6 @@
 # Disclosure Statement: Use of AI-Assisted Technologies
 
-**Manuscript:** "Mahabbat and the Affinity Operator: Quantum Physics as Structural
+**Manuscript:** "Mahabbat and the Two Wings: Quantum Physics as Structural
 Convergence with Bahá'í Relational Ontology"
 **Author:** Joshua Adams
 **Submitted to:** The Journal of Bahá'í Studies

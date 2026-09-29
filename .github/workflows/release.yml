@@ -33,7 +33,7 @@ jobs:
         with:
           name: ${{ github.ref_name }}
           body: |
-            **Mahabbat and the Affinity Operator: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology**
+            **Mahabbat and the Two Wings: Quantum Physics as Structural Convergence with Bahá'í Relational Ontology**
             Joshua Adams · ${{ github.ref_name }}
 
             Preprint. Metadata and DOI via Zenodo (see sidebar).

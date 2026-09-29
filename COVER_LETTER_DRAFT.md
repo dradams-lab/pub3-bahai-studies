@@ -13,7 +13,7 @@ Association for Bahá'í Studies
 
 Dear Editors,
 
-I am pleased to submit my manuscript, **"Mahabbat and the Affinity Operator: Quantum
+I am pleased to submit my manuscript, **"Mahabbat and the Two Wings: Quantum
 Physics as Structural Convergence with Bahá'í Relational Ontology,"** for consideration
 in *The Journal of Bahá'í Studies*.
 
