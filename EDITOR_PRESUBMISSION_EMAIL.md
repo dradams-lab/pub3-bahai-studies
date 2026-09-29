@@ -21,15 +21,16 @@ submission.
 
 The paper is titled **"Mahabbat and the Affinity Operator: Quantum Physics as
 Structural Convergence with Bahá'í Relational Ontology"** and I intend to submit it
-to the Articles section. I used one AI tool — Claude, by Anthropic — in three
+to the Articles section. I used one AI tool — Claude, by Anthropic — in four
 distinct ways:
 
 1. **Drafting (mixed by section).** The core argument — the textual case for the
    Bahá'í relational metaphysics of *mahabbat*, the chronological argument, and the
    treatment of the non-composite soul (the paper's Sections 2, 4, and 6) — is my
-   own analysis; there Claude acted as an editorial/research assistant, expanding
-   prose from my outlines and tightening phrasing. The framing sections — the
-   introduction, the "confirmation, not appropriation" discussion, and the
+   own analysis, apart from the Section 6.1 argument described in item 4; there
+   Claude acted as an editorial/research assistant, expanding prose from my
+   outlines and tightening phrasing. The framing sections — the introduction, the
+   "convergence, not appropriation" discussion, and the
    conclusion (Sections 1, 5, and 7) — were drafted by Claude from my direction and
    outline, then revised by me over several passes.
 
@@ -48,6 +49,20 @@ distinct ways:
    phrase misattributed to *Selections from the Writings of ʻAbdu'l-Bahá*, replaced
    with the passage the argument actually rests on. I reviewed and approved every
    correction.
+
+4. **Late revisions (September 2026).** Shortly before submission I had Claude
+   review the manuscript against my companion book and against the physics. It
+   found that the original argument of Section 6.1 — that decoherence needs internal
+   parts, so a soul without parts cannot decohere — is refuted by a single electron,
+   which has no known parts yet decoheres, and it drafted the revised argument, which
+   rests the soul's immunity on its not being a physical system and leaves the
+   interaction problem open; Section 6.1 as it now stands is substantially
+   AI-drafted, from my direction. It also revised the abstract, introduction,
+   Sections 2–5 and conclusion to claim structural convergence rather than
+   confirmation, corrected two physics overstatements, and re-checked each direct
+   quotation against the specific work and talk it cites.
+   [Review these revisions, especially Section 6.1, before sending; then delete
+   this note.]
 
 The paper's central thesis, interpretation, and conclusions are my own, and I take
 full responsibility for the accuracy and integrity of all claims and citations,

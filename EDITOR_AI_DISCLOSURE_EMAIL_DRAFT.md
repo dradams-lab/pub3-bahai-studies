@@ -12,10 +12,11 @@ to answer any follow-up questions.
 
 **1. Drafting — mixed by section.**
 - Sections 2 ("Textual Argument"), 4 ("Chronological Argument"), and 6 ("The
-  Non-Composite Soul") contain my own analysis and argument. AI was used in these
-  sections in an editorial/research-assistant capacity: expanding prose from my outline
-  and notes, and tightening phrasing.
-- Sections 1 (Introduction), 5 ("Confirmation, Not Appropriation"), and 7 (Conclusion)
+  Non-Composite Soul") contain my own analysis and argument, with one exception: the
+  decoherence argument in Section 6.1 was redrafted by the AI in September 2026 (item 5).
+  Otherwise AI was used in these sections in an editorial/research-assistant capacity:
+  expanding prose from my outline and notes, and tightening phrasing.
+- Sections 1 (Introduction), 5 ("Convergence, Not Appropriation"), and 7 (Conclusion)
   were drafted by the AI from my direction and outline — I specified the content and
   framing I wanted, the AI produced prose, and I reviewed and revised it across several
   passes before including it.
@@ -50,10 +51,25 @@ caught several concrete problems, all corrected in the submitted version:
   a mirror in which the divine perfections are manifested and reflected").
 
 **4. What was not AI-generated.** The paper's central thesis — that the Bahá'í
-"two-wings" principle is structurally confirmed by the convergence of relational quantum
-mechanics, Whitehead's process philosophy, and the Bahá'í metaphysics of *mahabbat* — is
-my own, along with the textual and chronological argument supporting it (Sections 2, 4,
-and 6).
+metaphysics of *mahabbat* shares a relational structure with relational quantum mechanics
+and Whitehead's process philosophy, so that the "two-wings" principle holds at the level
+of structure — is my own, along with the textual and chronological argument supporting
+it (Sections 2 and 4, and Section 6 apart from 6.1).
+
+**5. Late revisions (September 2026).** After first preparing the manuscript, I had the
+AI review it against my companion book and against the physics, and made these revisions
+at my direction:
+- It found that the original Section 6.1 argument (decoherence needs internal parts, so a
+  soul without parts cannot decohere) is refuted by a single electron, which has no known
+  parts yet decoheres, and drafted the revised argument, which rests the soul's immunity
+  on its not being a physical system and leaves the interaction problem open. Section
+  6.1 as it now stands is substantially AI-drafted.
+- It revised the abstract, introduction, Sections 2–5 and conclusion to claim structural
+  convergence rather than confirmation, and to attribute the claim that love sustains
+  relationship to the Bahá'í writings rather than to physics.
+- It corrected overstatements about the holographic principle and about zero-point
+  energy, and re-checked each direct quotation against the specific work (and talk) it
+  cites, restoring one missing ellipsis.
 
 I've reviewed all AI-assisted and AI-drafted content myself and take full responsibility
 for the accuracy of the manuscript's claims and citations. A fuller technical account of
@@ -66,7 +82,9 @@ Sincerely,
 Joshua Adams
 
 ---
-*(Draft only — review and edit before sending. Note this draft asserts the corrections
+*(Draft only — review and edit before sending. Review the September 2026 revisions,
+especially Section 6.1, before sending, since the email affirms you have reviewed all
+AI-assisted content. Note this draft asserts the corrections
 listed in item 3 are already reflected in the submitted manuscript; confirm the version
 you attach to the submission actually includes the citation fixes made in this repo's
 recent commits before sending.)*

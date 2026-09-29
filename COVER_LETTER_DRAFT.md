@@ -46,7 +46,9 @@ their accurate citation at the center of the argument.
 disclosure statement (`AI_DISCLOSURE_STATEMENT.md`), which is also included verbatim in
 the manuscript itself as a declaration section immediately following the conclusion, so
 that it travels with the paper. In brief: AI assistance was used for drafting the
-framing sections and for editing, and — most relevant to scholarly integrity — for an
+framing sections and for editing; a late revision of the decoherence argument in
+Section 6.1 was AI-drafted from my direction, as the statement explains; and — most
+relevant to scholarly integrity — AI was used for an
 independent check of the manuscript's verbatim quotations and load-bearing citations
 against primary sources, which I reviewed and approved and which corrected several
 citation errors before submission. A detailed, item-by-item verification log

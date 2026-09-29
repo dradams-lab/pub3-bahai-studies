@@ -1,26 +1,28 @@
 # Disclosure Statement: Use of AI-Assisted Technologies
 
-**Manuscript:** "Mahabbat and the Affinity Tensor: Quantum Physics as Structural
+**Manuscript:** "Mahabbat and the Affinity Operator: Quantum Physics as Structural
 Convergence with Bahá'í Relational Ontology"
 **Author:** Joshua Adams
 **Submitted to:** The Journal of Bahá'í Studies
 
 This manuscript was prepared with the assistance of Claude (Anthropic), a large language
-model, used in three distinct capacities, detailed here for transparency.
+model, used in the capacities detailed here for transparency, including a set of late
+revisions made in September 2026 (item 4).
 
 ## 1. Argument and analysis
 
 The central textual and historical argument of this paper — the case for the priority of
 the Bahá'í writings' relational metaphysics of *mahabbat* (Section 2), the six
 structural convergences with quantum mechanics and process philosophy (Section 3), the
-chronological framing (Section 4), and the treatment of the non-composite soul and its
-implications for decoherence (Section 6) — is my own analysis. Claude was used in an
+chronological framing (Section 4), and the treatment of the non-composite soul (Section 6,
+except the revised decoherence argument in Section 6.1 described in item 4) — is my own
+analysis. Claude was used in an
 editorial and research-assistant capacity for these sections: expanding and tightening
 prose I had outlined, and verifying citations against primary sources.
 
 ## 2. AI-drafted framing sections
 
-The introduction (Section 1), the discussion distinguishing confirmation from
+The introduction (Section 1), the discussion distinguishing convergence from
 appropriation (Section 5), and the conclusion (Section 7) were drafted by Claude from my
 direction and outline, then reviewed and revised by me across multiple passes before
 inclusion.
@@ -44,6 +46,37 @@ problems prior to submission, including:
 - A placeholder bibliography entry for a generic "Bahá'í Sacred Writings" anthology that
   does not correspond to any identifiable single-volume source; it has been replaced
   with the two specific, citable primary texts the quotations actually come from.
+
+## 4. Late revisions (September 2026)
+
+After the manuscript was first prepared for submission, I had Claude review it against my
+companion book manuscript and against the physics. The resulting revisions, made at my
+direction on 29 September 2026, are:
+
+- **Section 6.1 (decoherence and the non-composite soul).** Claude identified that the
+  section's original argument — that decoherence requires internal parts, so an entity
+  without parts cannot decohere — is refuted by a single electron, which has no known
+  parts yet decoheres readily. Claude drafted the revised argument, which rests the
+  soul's immunity to decoherence on its not being a physical system (following *Paris
+  Talks*, p. 91) and states the interaction problem as open. The argument in Section 6.1
+  as it now stands is therefore substantially AI-drafted, from my direction.
+- **Framing throughout.** Claude revised the abstract, the introduction, Sections 2–5 and
+  the conclusion so that the paper claims structural convergence rather than
+  confirmation, and so that the claim that love sustains relationship is attributed to
+  the Bahá'í writings (and, in his own vocabulary, to Whitehead) rather than to physics.
+  Section 5 was retitled "Quantum Physics as Convergence, Not Appropriation."
+- **Physics corrections.** Claude identified and corrected overstatements about the
+  holographic principle (Section 3.5) and about zero-point energy and the quantum vacuum
+  (Sections 2 and 3.6).
+- **Quotation re-check.** Claude re-checked each direct quotation against the text of the
+  work it cites (for *The Promulgation of Universal Peace*, against the specific talk),
+  using copies of *Promulgation*, *Selections* and the compilation of Bahá'u'lláh's
+  writings; one missing ellipsis was restored (Talk 48). Quotations from *Paris Talks*
+  and *Some Answered Questions* were not re-checked in this pass and rest on the earlier
+  verification against bahai.org.
+
+[Before submitting: review these revisions, especially Section 6.1, so that the statement
+of responsibility below is accurate for them too, then delete this note.]
 
 ## Statement of responsibility
 
