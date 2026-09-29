@@ -1,7 +1,7 @@
 # Mahabbat and the Two Wings
 ### Quantum Physics as Structural Convergence with Bahá'í Relational Ontology
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20388677.svg)](https://doi.org/10.5281/zenodo.20388677)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23046022.svg)](https://doi.org/10.5281/zenodo.23046022)
 
 **Author:** Joshua Adams  
 **Target journal:** Journal of Bahá'í Studies  
