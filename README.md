@@ -18,7 +18,7 @@ This paper tests the Bahá'í two-wings principle against three landmarks of mod
 ## Companion publications
 
 - **Pub1 — Physics**: [Relational Coherence Budgeting for Tunable Exchange Gates](https://github.com/dradams-lab/pub1-physics-rct) — [DOI: 10.5281/zenodo.23047716](https://doi.org/10.5281/zenodo.23047716) (v1.9.3)
-- **Pub2 — Philosophy**: [Three Paths to One Structure](https://github.com/dradams-lab/pub2-philosophy) — [DOI: 10.5281/zenodo.23047204](https://doi.org/10.5281/zenodo.23047204) (v0.6.2)
+- **Pub2 — Philosophy**: [Three Paths to One Structure](https://github.com/dradams-lab/pub2-philosophy) — [DOI: 10.5281/zenodo.23048193](https://doi.org/10.5281/zenodo.23048193) (v0.6.3)
 - **Book**: [The Physics of Love](https://github.com/dradams-lab/book-physics-of-love) (in preparation)
 
 ## Build
